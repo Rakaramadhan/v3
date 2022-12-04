@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281338302495'] //ur owner number
-global.ownername = "❣︎6xzy✞" //ur owner name
-global.ytname = "6xzy | 𝟔𝐱𝐑𝐞𝐯𝐞𝐠𝐞𝐧𝐜𝐲" //ur yt chanel name
+global.vcardowner = ['62882006212045'] //ur owner number
+global.ownername = "KhaTheTrojans" //ur owner name
+global.ytname = "Foxxy offc | Khathehard" //ur yt chanel name
 global.socialm = "GitHub: RavensVenix" //ur github or insta name
-global.location = "Isekai, Taman Hiburan, Pemandian Umum" //ur location
+global.location = "Isekai, Taman hiburan, Jawa tengah" //ur location
 
 //bot bomdy 
-global.owner = ['6281338302495']
-global.ownertag = '6281338302495' //ur tag number
-global.botname = '❣︎𝟔𝐱𝐑𝐞𝐯𝐞𝐠𝐞𝐧𝐜𝐲✞' //ur bot name
+global.owner = ['62882006212045']
+global.ownertag = '62882006212045' //ur tag number
+global.botname = '𝙆 𝙝 𝙖 𝙖 | MD' //ur bot name
 global.linkz = "https://m.youtube.com/watch?v=wMPz2If96wM" //your theme url which will be displayed on whatsapp
 global.websitex = "http://nyxworldx.blogspot.com/" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "🦋" //ur menu react emoji
-global.themeemoji = "🦋" //ur theme emoji
-global.packname = "❣︎𝟔𝐱𝐑𝐞𝐯𝐞𝐠𝐞𝐧𝐜𝐲✞\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
-global.author = "❣︎𝟔𝐱𝐑𝐞𝐯𝐞𝐠𝐞𝐧𝐜𝐲✞" //ur sticker watermark author
+global.themeemoji = "🗿" //ur theme emoji
+global.packname = "❣︎𝙆 𝙝 𝙖 𝙖 | MD✞\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
+global.author = "KhaTheTrojans" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281338302495'] //ur premium numbers
+global.premium = ['62882006212045'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
